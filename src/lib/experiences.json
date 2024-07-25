@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Software Engineer 1",
+        "company": "Finalsite Private Limited",
+        "date": "Oct 2021 - Mar 2024",
+        "description": "I joined as a fresher. I am responsible for developing and maintaining software applications. I work closely with the product owner and other team members to deliver high-quality software solutions.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "C#",
+            "MSSQL",
+            "JavaScript",
+            "Dot Net Core",
+            "Entity Framework"
+        ]
+    },
+    {
+        "title": "Software Engineer 2",
+        "company": "Finalsite Private Limited",
+        "date": "Mar 2024 - Present",
+        "description": "I co ordinated with senior team members to develop the internal tool to streamline the processes of migrating the data's",
+        "skills": [
+            "NodeJs",
+            "ExpressJs",
+            "TypeScript",
+            "ReactJs",
+            "Dot Net Core"
+        ]
+    }
+]

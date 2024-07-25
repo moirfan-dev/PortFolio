@@ -1,0 +1,20 @@
+[
+    {
+        "title": "INSIGHTS",
+        "description": "Developed a FullStack Blog application by integrating ReactJS, TailwindCSS and Appwrite for Backend as a service (BAAS) where Users can Login and Post, Edit, Read, Delete the Blogs",
+        "type": "Personal Projects",
+        "imageUrl": "/assets/img/blog.png",
+        "githubUrl": "https://github.com/vineet-op/Appwite-Blog",
+        "demoUrl": "https://insights7.netlify.app/",
+        "skills": [
+            "HTML",
+            "TAILWIND",
+            "JAVASCRIPT",
+            "REACT.JS",
+            "APPWRITE",
+            "FORMIK",
+            "REDUX TOOLKIT",
+            "NETLIFY"
+        ]
+    }
+]
