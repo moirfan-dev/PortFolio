@@ -190,7 +190,6 @@ export default function Home() {
                                 description={projects.description}
                                 imageUrl={projects.imageUrl}
                                 githubUrl={projects.githubUrl}
-                                demoUrl={projects.demoUrl}
                                 skills={projects.skills}
                             />
                         </Reveal>
