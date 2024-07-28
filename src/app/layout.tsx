@@ -31,7 +31,7 @@ export default function RootLayout({
                         {children}
                     </main>
                     <footer className="container mx-auto py-4">
-                        <Link href="" target="_blank">
+                        <Link href="https://github.com/moirfan-dev/PortFolio" target="_blank">
                             <p className="text-center text-sm text-muted-foreground hover:text-white transition-all">
                                 © Designed & Built by Mohamed Irfan · 2024
                             </p>

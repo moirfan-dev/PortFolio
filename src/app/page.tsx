@@ -101,7 +101,7 @@ export default function Home() {
                                 </Tooltip>
                             </Reveal>
                         </TooltipProvider>
-                        <a href="">
+                        <a href="https://drive.google.com/file/d/1qtLVaP6iX1HK75OmSt6wPw6b1NYiHLNn/view?usp=sharing">
                             <Button className="ml-10 cursor-pointer bg-yellow-500">Resume</Button>
                         </a>
                     </div>
